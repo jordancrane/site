@@ -23,11 +23,15 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "posts"
-    text = "posts"
+    text = "logos"
 
 [[params.mainMenu]]
     link = "resume.html"
-    text = "resume"
+    text = "ethos"
+
+[[params.mainMenu]]
+    link = "about"
+    text = "pathos"
 
 [imaging]
     quality = 75
