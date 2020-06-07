@@ -26,7 +26,7 @@ pygmentsCodefences       = true
     text = "logos"
 
 [[params.mainMenu]]
-    link = "resume"
+    link = "resume/"
     text = "ethos"
 
 [[params.mainMenu]]
