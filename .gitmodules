@@ -4,3 +4,7 @@
 [submodule "resume"]
 	path = resume
 	url = https://github.com/jordancrane/pandoc_resume.git
+[submodule "public"]
+	path = public
+	url = https://github.com/jordancrane/jordancrane.github.io.git
+	branch = master

@@ -10,6 +10,7 @@
   },
   "scripts": {
     "update-resume": "git submodule update --remote --merge resume && cd resume && docker-compose up -d && cp -f ./output/resume.html ../content/resume.html",
+    "deploy": "npm run update-resume && ./deploy.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jordan Crane",
