@@ -9,6 +9,7 @@
     "postcss-cli": "^7.1.1"
   },
   "scripts": {
+    "update-resume": "cd resume && docker-compose up -d && cp -f output/resume.html ../content/resume.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jordan Crane",
