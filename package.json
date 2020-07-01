@@ -9,8 +9,7 @@
     "postcss-cli": "^7.1.1"
   },
   "scripts": {
-    "update-resume": "git submodule update --remote --merge resume && cd resume && docker-compose up -d && \\cp -f ./output/resume.html ./output/resume.pdf ./output/resume.rtf ./output/resume.docx ../static/resume/",
-    "deploy": "npm run update-resume && ./deploy.sh",
+    "deploy": "./deploy.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jordan Crane",
