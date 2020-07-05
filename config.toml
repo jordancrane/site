@@ -20,6 +20,7 @@ pygmentscodefencesguesssyntax = true
     description = "Jordan Crane's personal website"
     keywords = "blog,developer,personal"
     avatarurl = "images/avatar.jpg"
+    colorscheme = "light"
 
     favicon_32 = "/images/favicon-32x32.png"
     favicon_16 = "/images/favicon-16x16.png"
@@ -31,8 +32,8 @@ pygmentscodefencesguesssyntax = true
 
     rtl = false
 
-    math = true
-    custom_css = ["css/custom.css"]
+    math = false
+    custom_css = []
 
 # Social links
 [[params.social]]
