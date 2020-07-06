@@ -6,11 +6,11 @@ draft: false
 tags: ["blog","remote work", "collaboration"]
 ---
 
-Although I'm currently unemployed (thanks COVID), the transition to full remote work in my previous position brought about lots of changes to the way my team and I worked; some good, some bad. While I enjoyed the ability to work uninterrupted during periods of flow, I missed the spontaneous exchanges that were prone to happen in an office space but failed to materialize in the remote world. This was somewhat mitigated by the fact that my teammates and I were already close, but it still felt hindered. In the process of searching for new employment, I've been attracted to remote positions due to their perks, but I've also found my mind being drawn to thoughts of how it might be more difficult to form those initial relationships in a fully remote environment. Today I want to explore how a company might foster serendipitous encounters in a remote workspace.
+Although I'm currently unemployed thanks to the global pandemic, the transition to remote work in my previous position brought about many changes to the way my team and I worked; some good, some bad. While I enjoyed the ability to work uninterrupted during periods of flow, I missed the spontaneous exchanges that were prone to happen in an office space but failed to materialize in the remote world. This was somewhat mitigated by the fact that my teammates and I were already close, but it still felt hindered. In the process of searching for new employment, I've been attracted to remote positions due to their perks, but I've also found my mind being drawn to thoughts of how it might be more difficult to form those initial relationships in a fully remote environment. Today I want to explore how a company might foster serendipitous encounters in a remote workspace.
 
 ## Things We Tried
 
-On my team at Acorns we explored a few different ways to maintain our culture of collaboration given the tools we had at our disposal; namely Google Meet and Slack. 
+My team at Acorns explored a few different ways to maintain our culture of collaboration given the tools we had at our disposal; namely Google Meet and Slack. 
 
 ### Watercooler Channel
 
@@ -38,7 +38,7 @@ Thus the question is how can current collaboration tools be modified to provide 
 ### Desirable
 
 * Facilitates turning asynchronous conversations into real-time conversations when it becomes apparent that pairing or explaining something on a call would be more effective
-* Allows side-conversations to spin off organically while maintaining the feeling of being in the same space (creating a separate call doesn't achieve this well, since swapping between the side conversation and the hub conversation doesn't feel cohesive)
+* Allows side conversations to spin off organically while maintaining the feeling of being in the same space (creating a separate call doesn't achieve this well, since swapping between the side conversation and the hub conversation doesn't feel cohesive)
 * Shows when someone is open to a conversation or looking to not be distracted (virtual equivalent of headphones on/headphones off)
 * Allows for serendipitous encounters to occur
 
@@ -54,8 +54,8 @@ The thought that continually came to me as I was in virtual happy hours or persi
 
 While I was in the midst of considering these possibilities I came across [Gather](https://gather.town), which seems to be the only product that is breaking the mold of traditional video calls in this way. Gather allows you to create an 8-bit virtual space, which inhabitants can move their avatars around like a video game. As you get close to another inhabitant's avatar, a video call is created between the two of you. It's unfortunate that I was already without a job by the time I came across the site, since as soon as I saw it I was excited by the possibilities that it could enable.
 
-Using Gather or a similar product, a team could create a virtual office, which contains virtual desks, virtual meeting rooms, and virtual common areas. Inhabitants could be at their desk while they are working alone, but also walk over to the virtual desk of a coworker, or run into someone in the hallway on the way to a virtual meeting room. If a conversation was happening in a common area, others could drop in or side conversations could split off organically, as they do in the real world. Such a setup could provide many of the benefits of working in an office, without sacrificing the benefits of remote work. My main concern with such a solution is the problem of surveillance, it could easily become another way to keep tabs on workers and penalize them for not being in the virtual office on time. However, it would still be a very interesting technology to experiment with in a time when so many companies are undergoing jarring transitions to full-remote teams.
+Using Gather or a similar product, a team could create a virtual office, which contains virtual desks, virtual meeting rooms, and virtual common areas. Inhabitants could be at their desk while they are working alone, but also walk over to the virtual desk of a coworker, or run into someone in the hallway on the way to a virtual meeting room. If a conversation was happening in a common area, others could drop in or side conversations could split off organically, as they do in the real world. Such a setup could provide many of the benefits of working in an office, without sacrificing the benefits of remote work. My main concern with such a solution is the problem of surveillance, it could easily become another way to keep tabs on workers and penalize them for not being in the virtual office on time. However, it would still be a very interesting technology to experiment with in a time when so many companies are undergoing jarring transitions to a fully-distributed workforce.
 
 ## Conclusion
 
-Getting to the end of this post I'm not 100% sure that I had a concrete point to make, other than that Slack and Zoom (and their contemporaries) don't have to be the end-all-be-all of remote work. There are still ways to push the boundaries and experiment with other modes of remote collaboration. I hope this inspires you to continue searching for ways to foster better ways of working with your remote teams.
+Getting to the end of this post I'm not 100% sure that I had a concrete point to make, other than that Slack and Zoom (and their contemporaries) don't have to be the be-all and end-all of remote work. There are still ways to push the boundaries and experiment with other modes of remote collaboration. I hope this inspires you to continue searching for ways to foster better ways of working with your remote teams.
